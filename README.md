@@ -1,12 +1,20 @@
-# Ì†ºÌø† homeserver14.xyz - Central Infrastructure & Portfolio
-This repository manages the deployment and configuration of my central hub. It serves as the gateway to my self-hosted ecosystem and a showcase of my professional journey towards 
-becoming a Senior System Administrator.
-## Ì†ºÌøóÔ∏è System Architecture (High Availability)
-* **Hypervisor:** Proxmox VE Cluster (Mini PC Nodes) * **OS:** AlmaLinux 9 (Enterprise Linux - RHEL compatible) * **Containerization:** Docker inside LXC (Nested) * **Access:** 
-Securely exposed via Apache Guacamole with MFA & Cloudflare Zero Trust Tunnels.
-## Ì†ΩÌ≥Ç Managed Sites
-* **Portfolio:** [homeserver14.xyz](https://homeserver14.xyz) * **Reviews/Affiliate:** [notapro.tech](https://notapro.tech) * **Web App Lab:** 
-[capitalismwon.com](https://capitalismwon.com)
-## Ì†ΩÌª†Ô∏è Deployment Workflow
-I use this repository to manage my infrastructure as code. Updates are pushed to GitHub and deployed via Docker Compose to maintain a consistent
-and professional server environment.
+# üöÄ homeserver14.xyz - Central Infrastructure & Portfolio
+
+This repository manages the deployment and configuration of my central hub. It serves as the gateway to my self-hosted ecosystem and a showcase of my professional journey towards becoming a Senior System Administrator.
+
+## üèóÔ∏è System Architecture (High Availability)
+
+* **Hypervisor:** Proxmox VE Cluster (Mini PC Nodes)
+* **OS:** AlmaLinux 9 (Enterprise Linux - RHEL compatible)
+* **Containerization:** Docker inside LXC (Nested)
+* **Access:** Securely exposed via Apache Guacamole with MFA & Cloudflare Zero Trust Tunnels.
+
+## üåê Managed Sites
+
+* **Portfolio:** [homeserver14.xyz](https://homeserver14.xyz)
+* **Reviews/Affiliate:** [notapro.tech](https://notapro.tech)
+* **Web App Lab:** [capitalismwon.com](https://capitalismwon.com)
+
+## üõ†Ô∏è Deployment Workflow
+
+I use this repository to manage my infrastructure as code. Updates are pushed to GitHub and deployed via Docker Compose to maintain a consistent and professional server environment.
